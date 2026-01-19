@@ -13,12 +13,6 @@ This repository contains the implementation of attack simulation scenarios and A
 This work has been funded by **Abruzzo Region** through **POR FESR Abruzzo 2021/2027 Programme** – Measure 1.1.1.1  
 **CUP: C79J24000060007**
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" alt="EU Flag" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.regione.abruzzo.it/themes/contrib/flavor/images/logos/logo-regione-abruzzo.svg" alt="Regione Abruzzo" height="60"/>
-</p>
-
 ## Overview
 
 The project addresses cybersecurity challenges in industrial networks by providing:
